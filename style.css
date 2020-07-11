@@ -19,15 +19,24 @@ div {
 
 .blue {
   background-color: blue;
+
+}
+
+.green {
+background-color: green; 
+}
+
+.red {
+  background-color: red;
 }
 
 .invisible {
-  display: none;
+  display: visible;
 }
 
 .visible {
   display: block;
   border: 3px black dashed;
   border-radius: 0;
-  background-color: white;
+  background-color:black;
 }
